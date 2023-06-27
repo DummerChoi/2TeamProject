@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+.navbg{
+    background-color: #fff;
+}
+
+#basic-navbar-nav{
+    font-size: 18px;
+}
+
+.logotxt{
+    color: rgb(3, 26, 1);
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.logintxt{
+    margin-left: auto;
+}

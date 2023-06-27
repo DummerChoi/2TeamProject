@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+@media screen and (max-width:1357px) {
+  .row{
+    flex-direction: column;
+    align-items: center;
+  }
+  .room_imgall{
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+
+  .room_subakk{
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .room_container{
+    width: 100%;
+  }
+
+  .room_subakk .li{
+    font-size: 28px;
+  }
+
+}
+  
+.room_title {
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 130px;
+  font-size: 33pt;
+}
+  
+.room_subakk {
+  margin-bottom: 100px;
+  display:flex;
+  justify-content: center;
+  
+}
+
+.room_subakk ul{
+  width: 100%;
+  margin-left: 220px;
+}
+
+.room_imgall {
+  width: 520px;
+  /* height: 310px; */
+}
+
+.room_subakk .room_li {
+  font-size: 30px;
+  margin-top: 80px;
+  margin-bottom: 30px;
+}
